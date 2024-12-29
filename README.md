@@ -1,2 +1,2 @@
 Hello I'm 5nnea
-\nI am studying game programming.
+I am studying game programming.
